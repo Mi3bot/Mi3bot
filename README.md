@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mi3bot
 - 👀 I’m interested in continuous improvement
-- 🌱 I’m currently learning to get independent from Bubble.io
+- 🌱 I’m currently learning to create custom weweb components
 - 💞️ I’m looking to collaborate on sharing valuable learning sources
 - 📫 How to reach me: Signal
 - 😄 Pronouns: he/him
